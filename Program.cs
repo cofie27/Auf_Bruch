@@ -2,7 +2,7 @@
 //Dateiname     : Auf_Bruch
 //Projekt	    : Auf_Bruch
 //Beschreibung  : mit Brüchen rechnen
-//Autoren	    : Paul Atuahene
+//Autoren	    : Paul A.
 //Erstellung	: 26.01.2021
 //letzte Änd.	: 26.01.2021
 //Fehler	    : 
